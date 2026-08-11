@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/SrishtiJayara/LEETCODE/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/SrishtiJayara/LEETCODE/tree/master/2465-number-of-distinct-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SrishtiJayara/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SrishtiJayara/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/SrishtiJayara/LEETCODE/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/SrishtiJayara/LEETCODE/tree/master/2465-number-of-distinct-averages) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SrishtiJayara/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/SrishtiJayara/LEETCODE/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/SrishtiJayara/LEETCODE/tree/master/2465-number-of-distinct-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SrishtiJayara/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SrishtiJayara/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
