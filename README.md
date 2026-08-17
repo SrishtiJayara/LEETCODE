@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/SrishtiJayara/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2418-sort-the-people](https://github.com/SrishtiJayara/LEETCODE/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/SrishtiJayara/LEETCODE/tree/master/2678-number-of-senior-citizens) |
+| [3019-number-of-changing-keys](https://github.com/SrishtiJayara/LEETCODE/tree/master/3019-number-of-changing-keys) |
 | [3884-first-matching-character-from-both-ends](https://github.com/SrishtiJayara/LEETCODE/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
