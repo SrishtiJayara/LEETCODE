@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0229-majority-element-ii) |
 | [1089-duplicate-zeros](https://github.com/SrishtiJayara/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SrishtiJayara/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SrishtiJayara/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0229-majority-element-ii) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SrishtiJayara/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/SrishtiJayara/LEETCODE/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/SrishtiJayara/LEETCODE/tree/master/2465-number-of-distinct-averages) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0229-majority-element-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SrishtiJayara/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2418-sort-the-people](https://github.com/SrishtiJayara/LEETCODE/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/SrishtiJayara/LEETCODE/tree/master/2465-number-of-distinct-averages) |
@@ -80,5 +83,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0229-majority-element-ii) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SrishtiJayara/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
