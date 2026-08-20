@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SrishtiJayara/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SrishtiJayara/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 | [2418-sort-the-people](https://github.com/SrishtiJayara/LEETCODE/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/SrishtiJayara/LEETCODE/tree/master/2465-number-of-distinct-averages) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0229-majority-element-ii) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SrishtiJayara/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SrishtiJayara/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 | [2418-sort-the-people](https://github.com/SrishtiJayara/LEETCODE/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/SrishtiJayara/LEETCODE/tree/master/2465-number-of-distinct-averages) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SrishtiJayara/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0229-majority-element-ii) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SrishtiJayara/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SrishtiJayara/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/SrishtiJayara/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
