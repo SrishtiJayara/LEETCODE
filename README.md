@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/SrishtiJayara/LEETCODE/tree/master/0670-maximum-swap) |
 | [1154-day-of-the-year](https://github.com/SrishtiJayara/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/SrishtiJayara/LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
+| [1486-xor-operation-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SrishtiJayara/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SrishtiJayara/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Trie
