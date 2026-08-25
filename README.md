@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/SrishtiJayara/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SrishtiJayara/LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/SrishtiJayara/LEETCODE/tree/master/2465-number-of-distinct-averages) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SrishtiJayara/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
