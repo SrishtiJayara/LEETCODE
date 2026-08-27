@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SrishtiJayara/LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SrishtiJayara/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/SrishtiJayara/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SrishtiJayara/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SrishtiJayara/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Greedy
 |  |
 | ------- |
