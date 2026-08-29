@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1089-duplicate-zeros](https://github.com/SrishtiJayara/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SrishtiJayara/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SrishtiJayara/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SrishtiJayara/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SrishtiJayara/LEETCODE/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SrishtiJayara/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
