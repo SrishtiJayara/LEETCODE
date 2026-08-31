@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/SrishtiJayara/LEETCODE/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SrishtiJayara/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/SrishtiJayara/LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SrishtiJayara/LEETCODE/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-number-of-days-between-two-dates](https://github.com/SrishtiJayara/LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
 | [1486-xor-operation-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SrishtiJayara/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SrishtiJayara/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SrishtiJayara/LEETCODE/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
