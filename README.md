@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SrishtiJayara/LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1089-duplicate-zeros](https://github.com/SrishtiJayara/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SrishtiJayara/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SrishtiJayara/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1550-three-consecutive-odds](https://github.com/SrishtiJayara/LEETCODE/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SrishtiJayara/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/SrishtiJayara/LEETCODE/tree/master/1672-richest-customer-wealth) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0229-majority-element-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SrishtiJayara/LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SrishtiJayara/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SrishtiJayara/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2418-sort-the-people](https://github.com/SrishtiJayara/LEETCODE/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SrishtiJayara/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/SrishtiJayara/LEETCODE/tree/master/2465-number-of-distinct-averages) |
