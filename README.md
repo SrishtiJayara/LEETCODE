@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SrishtiJayara/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SrishtiJayara/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SrishtiJayara/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SrishtiJayara/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Trie
 |  |
 | ------- |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/SrishtiJayara/LEETCODE/tree/master/0197-rising-temperature) |
 | [0596-classes-with-at-least-5-students](https://github.com/SrishtiJayara/LEETCODE/tree/master/0596-classes-with-at-least-5-students) |
+## Brainteaser
+|  |
+| ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/3674-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
