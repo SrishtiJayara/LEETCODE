@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/SrishtiJayara/LEETCODE/tree/master/0197-rising-temperature) |
 | [0596-classes-with-at-least-5-students](https://github.com/SrishtiJayara/LEETCODE/tree/master/0596-classes-with-at-least-5-students) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SrishtiJayara/LEETCODE/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Brainteaser
 |  |
 | ------- |
