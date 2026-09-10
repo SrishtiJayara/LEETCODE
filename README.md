@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/SrishtiJayara/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/SrishtiJayara/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/SrishtiJayara/LEETCODE/tree/master/3028-ant-on-the-boundary) |
+| [3033-modify-the-matrix](https://github.com/SrishtiJayara/LEETCODE/tree/master/3033-modify-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SrishtiJayara/LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/SrishtiJayara/LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [3033-modify-the-matrix](https://github.com/SrishtiJayara/LEETCODE/tree/master/3033-modify-the-matrix) |
 ## Union-Find
 |  |
 | ------- |
