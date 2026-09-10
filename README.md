@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SrishtiJayara/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SrishtiJayara/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/0682-baseball-game) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SrishtiJayara/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SrishtiJayara/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/SrishtiJayara/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Union-Find
 |  |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/1025-divisor-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
