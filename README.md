@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/SrishtiJayara/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1184-distance-between-bus-stops](https://github.com/SrishtiJayara/LEETCODE/tree/master/1184-distance-between-bus-stops) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/SrishtiJayara/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SrishtiJayara/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SrishtiJayara/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1550-three-consecutive-odds](https://github.com/SrishtiJayara/LEETCODE/tree/master/1550-three-consecutive-odds) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/SrishtiJayara/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/SrishtiJayara/LEETCODE/tree/master/1185-day-of-the-week) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/SrishtiJayara/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/SrishtiJayara/LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
 | [1486-xor-operation-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SrishtiJayara/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
