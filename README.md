@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SrishtiJayara/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SrishtiJayara/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SrishtiJayara/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SrishtiJayara/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SrishtiJayara/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SrishtiJayara/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/SrishtiJayara/LEETCODE/tree/master/3945-digit-frequency-score) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SrishtiJayara/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/SrishtiJayara/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SrishtiJayara/LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SrishtiJayara/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/SrishtiJayara/LEETCODE/tree/master/0670-maximum-swap) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SrishtiJayara/LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SrishtiJayara/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting
 |  |
 | ------- |
