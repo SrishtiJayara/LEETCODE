@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/SrishtiJayara/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SrishtiJayara/LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SrishtiJayara/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1089-duplicate-zeros](https://github.com/SrishtiJayara/LEETCODE/tree/master/1089-duplicate-zeros) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0905-sort-array-by-parity](https://github.com/SrishtiJayara/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/SrishtiJayara/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SrishtiJayara/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/SrishtiJayara/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0905-sort-array-by-parity](https://github.com/SrishtiJayara/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SrishtiJayara/LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SrishtiJayara/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SrishtiJayara/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
