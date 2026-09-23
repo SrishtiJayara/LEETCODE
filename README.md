@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/SrishtiJayara/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/SrishtiJayara/LEETCODE/tree/master/1185-day-of-the-week) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/SrishtiJayara/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SrishtiJayara/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/SrishtiJayara/LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
 | [1486-xor-operation-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SrishtiJayara/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SrishtiJayara/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SrishtiJayara/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SrishtiJayara/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
