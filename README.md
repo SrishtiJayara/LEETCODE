@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SrishtiJayara/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/SrishtiJayara/LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
 | [1446-consecutive-characters](https://github.com/SrishtiJayara/LEETCODE/tree/master/1446-consecutive-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SrishtiJayara/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SrishtiJayara/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SrishtiJayara/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SrishtiJayara/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SrishtiJayara/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/SrishtiJayara/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SrishtiJayara/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SrishtiJayara/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/SrishtiJayara/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Math
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SrishtiJayara/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SrishtiJayara/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SrishtiJayara/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SrishtiJayara/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
