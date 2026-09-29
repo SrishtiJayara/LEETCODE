@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SrishtiJayara/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SrishtiJayara/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3668-restore-finishing-order](https://github.com/SrishtiJayara/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SrishtiJayara/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/SrishtiJayara/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 | [3019-number-of-changing-keys](https://github.com/SrishtiJayara/LEETCODE/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/SrishtiJayara/LEETCODE/tree/master/3174-clear-digits) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/SrishtiJayara/LEETCODE/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/SrishtiJayara/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SrishtiJayara/LEETCODE/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SrishtiJayara/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3978-unique-middle-element](https://github.com/SrishtiJayara/LEETCODE/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
