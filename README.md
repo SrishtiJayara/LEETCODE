@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/SrishtiJayara/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SrishtiJayara/LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SrishtiJayara/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1046-last-stone-weight](https://github.com/SrishtiJayara/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/SrishtiJayara/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1184-distance-between-bus-stops](https://github.com/SrishtiJayara/LEETCODE/tree/master/1184-distance-between-bus-stops) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/SrishtiJayara/LEETCODE/tree/master/1046-last-stone-weight) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
