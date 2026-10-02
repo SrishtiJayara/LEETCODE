@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SrishtiJayara/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SrishtiJayara/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/SrishtiJayara/LEETCODE/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/SrishtiJayara/LEETCODE/tree/master/0657-robot-return-to-origin) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SrishtiJayara/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SrishtiJayara/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/SrishtiJayara/LEETCODE/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SrishtiJayara/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SrishtiJayara/LEETCODE/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/0682-baseball-game) |
