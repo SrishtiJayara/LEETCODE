@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/SrishtiJayara/LEETCODE/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/SrishtiJayara/LEETCODE/tree/master/3174-clear-digits) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/SrishtiJayara/LEETCODE/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/SrishtiJayara/LEETCODE/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3959-check-good-integer](https://github.com/SrishtiJayara/LEETCODE/tree/master/3959-check-good-integer) |
 ## Bit Manipulation
 |  |
