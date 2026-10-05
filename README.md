@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SrishtiJayara/LEETCODE/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/SrishtiJayara/LEETCODE/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2390-removing-stars-from-a-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/SrishtiJayara/LEETCODE/tree/master/2418-sort-the-people) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SrishtiJayara/LEETCODE/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/SrishtiJayara/LEETCODE/tree/master/2678-number-of-senior-citizens) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/SrishtiJayara/LEETCODE/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SrishtiJayara/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/SrishtiJayara/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/SrishtiJayara/LEETCODE/tree/master/3174-clear-digits) |
 ## Math
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SrishtiJayara/LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SrishtiJayara/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
+| [2390-removing-stars-from-a-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [3028-ant-on-the-boundary](https://github.com/SrishtiJayara/LEETCODE/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/SrishtiJayara/LEETCODE/tree/master/3174-clear-digits) |
