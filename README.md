@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SrishtiJayara/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0766-toeplitz-matrix](https://github.com/SrishtiJayara/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/SrishtiJayara/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/SrishtiJayara/LEETCODE/tree/master/0946-validate-stack-sequences) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0766-toeplitz-matrix](https://github.com/SrishtiJayara/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/SrishtiJayara/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/SrishtiJayara/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [3033-modify-the-matrix](https://github.com/SrishtiJayara/LEETCODE/tree/master/3033-modify-the-matrix) |
