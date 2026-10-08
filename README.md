@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SrishtiJayara/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0970-powerful-integers](https://github.com/SrishtiJayara/LEETCODE/tree/master/0970-powerful-integers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SrishtiJayara/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/SrishtiJayara/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/SrishtiJayara/LEETCODE/tree/master/0204-count-primes) |
 | [0670-maximum-swap](https://github.com/SrishtiJayara/LEETCODE/tree/master/0670-maximum-swap) |
+| [0970-powerful-integers](https://github.com/SrishtiJayara/LEETCODE/tree/master/0970-powerful-integers) |
 | [1025-divisor-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/SrishtiJayara/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/SrishtiJayara/LEETCODE/tree/master/1185-day-of-the-week) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SrishtiJayara/LEETCODE/tree/master/0204-count-primes) |
+| [0970-powerful-integers](https://github.com/SrishtiJayara/LEETCODE/tree/master/0970-powerful-integers) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/SrishtiJayara/LEETCODE/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Number Theory
 |  |
