@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/SrishtiJayara/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/SrishtiJayara/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/SrishtiJayara/LEETCODE/tree/master/0204-count-primes) |
+| [0292-nim-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/0292-nim-game) |
 | [0670-maximum-swap](https://github.com/SrishtiJayara/LEETCODE/tree/master/0670-maximum-swap) |
 | [0970-powerful-integers](https://github.com/SrishtiJayara/LEETCODE/tree/master/0970-powerful-integers) |
 | [1025-divisor-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/1025-divisor-game) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/SrishtiJayara/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/3674-minimum-operations-to-equalize-array) |
@@ -379,10 +381,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/1025-divisor-game) |
 ## Divide and Conquer
 |  |
@@ -438,4 +442,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SrishtiJayara/LEETCODE/tree/master/0204-count-primes) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
