@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/SrishtiJayara/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0461-hamming-distance](https://github.com/SrishtiJayara/LEETCODE/tree/master/0461-hamming-distance) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SrishtiJayara/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SrishtiJayara/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
