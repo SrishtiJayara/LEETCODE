@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SrishtiJayara/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SrishtiJayara/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/SrishtiJayara/LEETCODE/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/SrishtiJayara/LEETCODE/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/SrishtiJayara/LEETCODE/tree/master/0402-remove-k-digits) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SrishtiJayara/LEETCODE/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SrishtiJayara/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SrishtiJayara/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/SrishtiJayara/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SrishtiJayara/LEETCODE/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/SrishtiJayara/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SrishtiJayara/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SrishtiJayara/LEETCODE/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/SrishtiJayara/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/SrishtiJayara/LEETCODE/tree/master/0461-hamming-distance) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SrishtiJayara/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
