@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SrishtiJayara/LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/SrishtiJayara/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SrishtiJayara/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0766-toeplitz-matrix](https://github.com/SrishtiJayara/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SrishtiJayara/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/SrishtiJayara/LEETCODE/tree/master/0724-find-pivot-index) |
 | [3028-ant-on-the-boundary](https://github.com/SrishtiJayara/LEETCODE/tree/master/3028-ant-on-the-boundary) |
 | [3903-smallest-stable-index-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
