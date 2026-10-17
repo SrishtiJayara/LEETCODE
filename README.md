@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/SrishtiJayara/LEETCODE/tree/master/3884-first-matching-character-from-both-ends) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/SrishtiJayara/LEETCODE/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
+| [4006-count-valid-prefixes](https://github.com/SrishtiJayara/LEETCODE/tree/master/4006-count-valid-prefixes) |
 ## Stack
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3978-unique-middle-element](https://github.com/SrishtiJayara/LEETCODE/tree/master/3978-unique-middle-element) |
+| [4006-count-valid-prefixes](https://github.com/SrishtiJayara/LEETCODE/tree/master/4006-count-valid-prefixes) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
