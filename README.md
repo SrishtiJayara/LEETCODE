@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/SrishtiJayara/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SrishtiJayara/LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SrishtiJayara/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1037-valid-boomerang](https://github.com/SrishtiJayara/LEETCODE/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/SrishtiJayara/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/SrishtiJayara/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1184-distance-between-bus-stops](https://github.com/SrishtiJayara/LEETCODE/tree/master/1184-distance-between-bus-stops) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/SrishtiJayara/LEETCODE/tree/master/0670-maximum-swap) |
 | [0970-powerful-integers](https://github.com/SrishtiJayara/LEETCODE/tree/master/0970-powerful-integers) |
 | [1025-divisor-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/1025-divisor-game) |
+| [1037-valid-boomerang](https://github.com/SrishtiJayara/LEETCODE/tree/master/1037-valid-boomerang) |
 | [1154-day-of-the-year](https://github.com/SrishtiJayara/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/SrishtiJayara/LEETCODE/tree/master/1185-day-of-the-week) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/SrishtiJayara/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -475,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/0292-nim-game) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/SrishtiJayara/LEETCODE/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
