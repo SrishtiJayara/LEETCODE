@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SrishtiJayara/LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/SrishtiJayara/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/SrishtiJayara/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/SrishtiJayara/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SrishtiJayara/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -481,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/SrishtiJayara/LEETCODE/tree/master/1037-valid-boomerang) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
