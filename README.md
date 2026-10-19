@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SrishtiJayara/LEETCODE/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SrishtiJayara/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SrishtiJayara/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SrishtiJayara/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/SrishtiJayara/LEETCODE/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SrishtiJayara/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/SrishtiJayara/LEETCODE/tree/master/2465-number-of-distinct-averages) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SrishtiJayara/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SrishtiJayara/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
