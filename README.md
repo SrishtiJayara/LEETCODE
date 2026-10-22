@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SrishtiJayara/LEETCODE/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/SrishtiJayara/LEETCODE/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2678-number-of-senior-citizens](https://github.com/SrishtiJayara/LEETCODE/tree/master/2678-number-of-senior-citizens) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/SrishtiJayara/LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SrishtiJayara/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SrishtiJayara/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SrishtiJayara/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SrishtiJayara/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/SrishtiJayara/LEETCODE/tree/master/2465-number-of-distinct-averages) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/SrishtiJayara/LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SrishtiJayara/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SrishtiJayara/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/SrishtiJayara/LEETCODE/tree/master/2418-sort-the-people) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SrishtiJayara/LEETCODE/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/SrishtiJayara/LEETCODE/tree/master/2678-number-of-senior-citizens) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/SrishtiJayara/LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2864-maximum-odd-binary-number](https://github.com/SrishtiJayara/LEETCODE/tree/master/2864-maximum-odd-binary-number) |
 | [3019-number-of-changing-keys](https://github.com/SrishtiJayara/LEETCODE/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/SrishtiJayara/LEETCODE/tree/master/3174-clear-digits) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SrishtiJayara/LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SrishtiJayara/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/SrishtiJayara/LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3028-ant-on-the-boundary](https://github.com/SrishtiJayara/LEETCODE/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/SrishtiJayara/LEETCODE/tree/master/3174-clear-digits) |
