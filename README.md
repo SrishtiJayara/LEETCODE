@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/SrishtiJayara/LEETCODE/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2390-removing-stars-from-a-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/SrishtiJayara/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/SrishtiJayara/LEETCODE/tree/master/2418-sort-the-people) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SrishtiJayara/LEETCODE/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/SrishtiJayara/LEETCODE/tree/master/2678-number-of-senior-citizens) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/SrishtiJayara/LEETCODE/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SrishtiJayara/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [2396-strictly-palindromic-number](https://github.com/SrishtiJayara/LEETCODE/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/SrishtiJayara/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SrishtiJayara/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SrishtiJayara/LEETCODE/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
