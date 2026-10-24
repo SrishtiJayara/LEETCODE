@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/SrishtiJayara/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SrishtiJayara/LEETCODE/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/SrishtiJayara/LEETCODE/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/SrishtiJayara/LEETCODE/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2390-removing-stars-from-a-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/SrishtiJayara/LEETCODE/tree/master/2409-count-days-spent-together) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/SrishtiJayara/LEETCODE/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/SrishtiJayara/LEETCODE/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/SrishtiJayara/LEETCODE/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2864-maximum-odd-binary-number](https://github.com/SrishtiJayara/LEETCODE/tree/master/2864-maximum-odd-binary-number) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SrishtiJayara/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
