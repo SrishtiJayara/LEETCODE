@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/SrishtiJayara/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SrishtiJayara/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1472-design-browser-history](https://github.com/SrishtiJayara/LEETCODE/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SrishtiJayara/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SrishtiJayara/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1550-three-consecutive-odds](https://github.com/SrishtiJayara/LEETCODE/tree/master/1550-three-consecutive-odds) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SrishtiJayara/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1472-design-browser-history](https://github.com/SrishtiJayara/LEETCODE/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SrishtiJayara/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/SrishtiJayara/LEETCODE/tree/master/1544-make-the-string-great) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/SrishtiJayara/LEETCODE/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/SrishtiJayara/LEETCODE/tree/master/1472-design-browser-history) |
 ## Memoization
 |  |
 | ------- |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SrishtiJayara/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1472-design-browser-history](https://github.com/SrishtiJayara/LEETCODE/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -539,4 +543,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/SrishtiJayara/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/0234-palindrome-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/SrishtiJayara/LEETCODE/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/SrishtiJayara/LEETCODE/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
