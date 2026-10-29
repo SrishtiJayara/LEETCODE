@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SrishtiJayara/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SrishtiJayara/LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3794-reverse-string-prefix](https://github.com/SrishtiJayara/LEETCODE/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/SrishtiJayara/LEETCODE/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/SrishtiJayara/LEETCODE/tree/master/3174-clear-digits) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/SrishtiJayara/LEETCODE/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/SrishtiJayara/LEETCODE/tree/master/3884-first-matching-character-from-both-ends) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/SrishtiJayara/LEETCODE/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4006-count-valid-prefixes](https://github.com/SrishtiJayara/LEETCODE/tree/master/4006-count-valid-prefixes) |
