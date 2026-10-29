@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SrishtiJayara/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/SrishtiJayara/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/SrishtiJayara/LEETCODE/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/SrishtiJayara/LEETCODE/tree/master/3174-clear-digits) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/SrishtiJayara/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/SrishtiJayara/LEETCODE/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/SrishtiJayara/LEETCODE/tree/master/3884-first-matching-character-from-both-ends) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/SrishtiJayara/LEETCODE/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
