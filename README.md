@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SrishtiJayara/LEETCODE/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/SrishtiJayara/LEETCODE/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SrishtiJayara/LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SrishtiJayara/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/SrishtiJayara/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/SrishtiJayara/LEETCODE/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/0292-nim-game) |
+| [0445-add-two-numbers-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0670-maximum-swap](https://github.com/SrishtiJayara/LEETCODE/tree/master/0670-maximum-swap) |
 | [0970-powerful-integers](https://github.com/SrishtiJayara/LEETCODE/tree/master/0970-powerful-integers) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
