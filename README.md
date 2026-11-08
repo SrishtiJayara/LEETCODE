@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/SrishtiJayara/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/SrishtiJayara/LEETCODE/tree/master/3028-ant-on-the-boundary) |
 | [3033-modify-the-matrix](https://github.com/SrishtiJayara/LEETCODE/tree/master/3033-modify-the-matrix) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SrishtiJayara/LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
