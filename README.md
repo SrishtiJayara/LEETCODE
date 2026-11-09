@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SrishtiJayara/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SrishtiJayara/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0398-random-pick-index](https://github.com/SrishtiJayara/LEETCODE/tree/master/0398-random-pick-index) |
 | [0451-sort-characters-by-frequency](https://github.com/SrishtiJayara/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0970-powerful-integers](https://github.com/SrishtiJayara/LEETCODE/tree/master/0970-powerful-integers) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/SrishtiJayara/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/SrishtiJayara/LEETCODE/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/0292-nim-game) |
+| [0398-random-pick-index](https://github.com/SrishtiJayara/LEETCODE/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0670-maximum-swap](https://github.com/SrishtiJayara/LEETCODE/tree/master/0670-maximum-swap) |
@@ -591,4 +593,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SrishtiJayara/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/SrishtiJayara/LEETCODE/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/SrishtiJayara/LEETCODE/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
