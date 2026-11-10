@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SrishtiJayara/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/SrishtiJayara/LEETCODE/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SrishtiJayara/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/SrishtiJayara/LEETCODE/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SrishtiJayara/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/SrishtiJayara/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/SrishtiJayara/LEETCODE/tree/master/0204-count-primes) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SrishtiJayara/LEETCODE/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/SrishtiJayara/LEETCODE/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/SrishtiJayara/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/SrishtiJayara/LEETCODE/tree/master/0461-hamming-distance) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SrishtiJayara/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -601,4 +603,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/SrishtiJayara/LEETCODE/tree/master/0398-random-pick-index) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/SrishtiJayara/LEETCODE/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
