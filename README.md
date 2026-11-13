@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/SrishtiJayara/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/SrishtiJayara/LEETCODE/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/SrishtiJayara/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SrishtiJayara/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0766-toeplitz-matrix](https://github.com/SrishtiJayara/LEETCODE/tree/master/0766-toeplitz-matrix) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SrishtiJayara/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/SrishtiJayara/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/SrishtiJayara/LEETCODE/tree/master/0706-design-hashmap) |
 | [0970-powerful-integers](https://github.com/SrishtiJayara/LEETCODE/tree/master/0970-powerful-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/SrishtiJayara/LEETCODE/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/SrishtiJayara/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/SrishtiJayara/LEETCODE/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/SrishtiJayara/LEETCODE/tree/master/1472-design-browser-history) |
 ## Memoization
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/SrishtiJayara/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/SrishtiJayara/LEETCODE/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
@@ -631,4 +635,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/SrishtiJayara/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/SrishtiJayara/LEETCODE/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
