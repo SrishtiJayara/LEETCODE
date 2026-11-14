@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SrishtiJayara/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/SrishtiJayara/LEETCODE/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SrishtiJayara/LEETCODE/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
