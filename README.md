@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SrishtiJayara/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SrishtiJayara/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SrishtiJayara/LEETCODE/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SrishtiJayara/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SrishtiJayara/LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2000-reverse-prefix-of-word](https://github.com/SrishtiJayara/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SrishtiJayara/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SrishtiJayara/LEETCODE/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/SrishtiJayara/LEETCODE/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/SrishtiJayara/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1929-concatenation-of-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SrishtiJayara/LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SrishtiJayara/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SrishtiJayara/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/SrishtiJayara/LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
