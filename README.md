@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/SrishtiJayara/LEETCODE/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SrishtiJayara/LEETCODE/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/SrishtiJayara/LEETCODE/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
