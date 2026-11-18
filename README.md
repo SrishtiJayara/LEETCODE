@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SrishtiJayara/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/SrishtiJayara/LEETCODE/tree/master/0274-h-index) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SrishtiJayara/LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/0147-insertion-sort-list) |
 | [0229-majority-element-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/SrishtiJayara/LEETCODE/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/SrishtiJayara/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SrishtiJayara/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SrishtiJayara/LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -651,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/SrishtiJayara/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SrishtiJayara/LEETCODE/tree/master/0706-design-hashmap) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/SrishtiJayara/LEETCODE/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
