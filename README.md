@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/SrishtiJayara/LEETCODE/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SrishtiJayara/LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SrishtiJayara/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2788-split-strings-by-separator](https://github.com/SrishtiJayara/LEETCODE/tree/master/2788-split-strings-by-separator) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SrishtiJayara/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SrishtiJayara/LEETCODE/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/SrishtiJayara/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SrishtiJayara/LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2788-split-strings-by-separator](https://github.com/SrishtiJayara/LEETCODE/tree/master/2788-split-strings-by-separator) |
 | [2864-maximum-odd-binary-number](https://github.com/SrishtiJayara/LEETCODE/tree/master/2864-maximum-odd-binary-number) |
 | [3019-number-of-changing-keys](https://github.com/SrishtiJayara/LEETCODE/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/SrishtiJayara/LEETCODE/tree/master/3174-clear-digits) |
