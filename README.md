@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SrishtiJayara/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SrishtiJayara/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/SrishtiJayara/LEETCODE/tree/master/3668-restore-finishing-order) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/SrishtiJayara/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3668-restore-finishing-order](https://github.com/SrishtiJayara/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/SrishtiJayara/LEETCODE/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SrishtiJayara/LEETCODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/SrishtiJayara/LEETCODE/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/SrishtiJayara/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3959-check-good-integer](https://github.com/SrishtiJayara/LEETCODE/tree/master/3959-check-good-integer) |
 ## Bit Manipulation
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SrishtiJayara/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/SrishtiJayara/LEETCODE/tree/master/1046-last-stone-weight) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -610,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/SrishtiJayara/LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/SrishtiJayara/LEETCODE/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SrishtiJayara/LEETCODE/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -622,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/SrishtiJayara/LEETCODE/tree/master/1472-design-browser-history) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -663,4 +669,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/SrishtiJayara/LEETCODE/tree/master/0274-h-index) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SrishtiJayara/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
