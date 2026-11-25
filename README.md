@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/SrishtiJayara/LEETCODE/tree/master/0670-maximum-swap) |
 | [0970-powerful-integers](https://github.com/SrishtiJayara/LEETCODE/tree/master/0970-powerful-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SrishtiJayara/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1017-convert-to-base-2](https://github.com/SrishtiJayara/LEETCODE/tree/master/1017-convert-to-base-2) |
 | [1025-divisor-game](https://github.com/SrishtiJayara/LEETCODE/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/SrishtiJayara/LEETCODE/tree/master/1037-valid-boomerang) |
 | [1154-day-of-the-year](https://github.com/SrishtiJayara/LEETCODE/tree/master/1154-day-of-the-year) |
